@@ -59,6 +59,7 @@
 
     - 选择操作：
         - 1：去水印（需手动框选水印区域）
+          ![Local Image](./example/ROI_example.png)
         - 2：去字幕 **（尚未完善，请勿使用）**
 
     - 处理后的视频保存在./video/watermark/
